@@ -1,0 +1,13 @@
+{
+"name": "Bala",
+"email": "Bala@gmail.com",
+"phoneNo": 9878787986,
+"prize": 87.234,
+"paymentReceived": true,
+"address": {
+"fullName": "Mani",
+"streetName": "sakthi nagar",
+"state": "TN"
+}
+
+}

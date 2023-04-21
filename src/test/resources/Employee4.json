@@ -1,0 +1,26 @@
+{
+
+"name": "Bala",
+
+"email": "Bala@gmail.com",
+
+"empDetails": [{
+
+"firstName": "Anandhavelu",
+"address": "Chennai",
+"course": "Java"
+}, {
+
+"firstName": "Ganesh",
+"address":"Chennai",
+"course": "Python"
+}, {
+
+"firstName": "Amirtham",
+"address": "Chennai",
+"course": "BigData"
+}
+]
+
+
+}
